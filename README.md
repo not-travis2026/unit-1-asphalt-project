@@ -19,7 +19,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![Final product of asphalt project](Frog.png)
+![Final product of asphalt project](frog.png)
 
 ## Reflection
 
